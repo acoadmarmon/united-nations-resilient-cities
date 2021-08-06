@@ -2,9 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.tif
 .DS_Store
-
+drive-download-*
 # C extensions
 *.so
 
